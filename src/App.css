@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+/* main{
+  font-family: monospace;
+} */
+
+.App{
+  background-color:#111;
+}
